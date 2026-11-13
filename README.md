@@ -6,6 +6,10 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+
+https://github.com/ALecznar/Project-Build-an-ML-Pipeline-Starter
+https://forge.coreweave.com/wandb/arondlecznar-western-governors-university/nyc_airbnb?nw=nwuserarondlecznar
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
